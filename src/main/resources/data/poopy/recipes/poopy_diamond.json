@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "poopy:poopy_diamond"
+  },
+  "result": "minecraft:diamond",
+  "count": 1
+}

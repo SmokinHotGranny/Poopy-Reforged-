@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_boots"
+  },
+  "addition": {
+    "item": "poopy:hardened_poopy"
+  },
+  "result": {
+    "item": "poopy:hardened_poopy_boots"
+  }
+}

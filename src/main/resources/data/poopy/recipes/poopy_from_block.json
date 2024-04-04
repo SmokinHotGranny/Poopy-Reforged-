@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "poopy:poopy_block"
+    }
+  ],
+  "result": {
+    "item": "poopy:poopy",
+    "count": 9
+  }
+}

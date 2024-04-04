@@ -1,0 +1,32 @@
+{
+  "item.poopy.poopy": "Poopy",
+  "item.poopy.poopy_diamond": "Poopy Diamond",
+  "item.poopy.dried_poopy": "Dried Poopy",
+  "item.poopy.jasper_crystal": "Jasper Crystal",
+  "item.poopy.molten_jasper": "Molten Jasper",
+  "item.poopy.foul_poopy": "Foul Poopy",
+  "item.poopy.flesh": "Flesh",
+  "item.poopy.poopy_in_a_blanket": "Poopy in a blanket",
+  "item.poopy.poopy_diamond_sword": "Poopy Diamond Sword",
+  "item.poopy.hardened_poopy": "Hardened Poopy",
+
+  "block.poopy.poopy_block": "Block of Poopy",
+
+  "item.poopy.hardened_poopy_helmet": "Poopy Helmet",
+  "item.poopy.hardened_poopy_chestplate": "Poopy Chestplate",
+  "item.poopy.hardened_poopy_leggings": "Poopy Leggings",
+  "item.poopy.hardened_poopy_boots": "Poopy Boots",
+
+  "item.minecraft.potion.effect.poopy_essence": "Poopy Essence",
+  "item.minecraft.splash_potion.effect.poopy_essence": "Explosive Poopy Essence",
+  "item.minecraft.lingering_potion.effect.poopy_essence": "Lingering Poopy Essence",
+  "item.minecraft.potion.effect.dysentery_cure": "Dysentery Cure",
+  "item.minecraft.splash_potion.effect.dysentery_cure": "Splash Potion of Dysentery Cure",
+  "item.minecraft.lingering_potion.effect.dysentery_cure": "Lingering Potion of Dysentery Cure",
+
+  "itemGroup.poopytab": "Poopy",
+
+  "effect.poopy.dysentery": "Dysentery",
+  "effect.poopy.dysentery_cure_effect": "Dysentery Cure",
+  "effect.poopy.constipation": "Constipation"
+}

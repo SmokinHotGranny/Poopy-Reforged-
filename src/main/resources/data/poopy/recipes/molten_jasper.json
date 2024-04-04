@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "poopy:jasper_crystal"
+  },
+  "result": "poopy:molten_jasper",
+  "experience": 1,
+  "cookingtime": 1200
+}

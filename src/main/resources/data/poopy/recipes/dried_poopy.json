@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "poopy:poopy"
+  },
+  "result": "poopy:dried_poopy",
+  "experience": 10,
+  "cookingtime": 1200
+}

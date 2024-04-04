@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    " # ",
+    " / "
+  ],
+  "key": {
+    "#": {
+      "item": "poopy:poopy_diamond"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "poopy:poopy_diamond_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:diamond_sword"
+  },
+  "addition": {
+    "item": "poopy:poopy_diamond"
+  },
+  "result": {
+    "item": "poopy:poopy_diamond_sword"
+  }
+}
