@@ -1,6 +1,5 @@
 package com.confusingfool.poopy.effect;
 
-import net.minecraft.world.damagesource.DamageSource;
 import net.minecraft.world.effect.MobEffect;
 import net.minecraft.world.effect.MobEffectCategory;
 import net.minecraft.world.effect.MobEffectInstance;
@@ -18,7 +17,7 @@ public class DysenteryEffect extends MobEffect
     @Override
     public void applyEffectTick(LivingEntity pLivingEntity, int pAmplifier)
     {
-        pLivingEntity.hurt(DamageSource.CRAMMING, 0.1F);
+        pLivingEntity.hurt(pLivingEntity.damageSources().cramming(), 0.1F);
 
         pLivingEntity.addEffect(new MobEffectInstance(MobEffects.MOVEMENT_SLOWDOWN, 800));
 
